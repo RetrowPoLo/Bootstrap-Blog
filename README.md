@@ -1,4 +1,6 @@
 # Bootstrap-Blog
-A bootstrap website blog
+A bootstrap website blog.
 
-This is a simple bootstrap website made with HTML5 - CSS3 - Bootstrap 5
+This is a simple bootstrap 5 website using components of the bootstrap doc adapted for the site.
+
+HTML5 - CSS3
